@@ -14,4 +14,4 @@ container: ubuntu:16.04
 
 steps:
 
-- script: printenv
+- script: printenv44
